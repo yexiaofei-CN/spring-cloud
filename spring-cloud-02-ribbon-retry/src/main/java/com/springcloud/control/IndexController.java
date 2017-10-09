@@ -29,7 +29,4 @@ public class IndexController {
         System.err.println("-----启动降级策略----");
         return "-----启动降级策略----";
     }
-
-
-
 }
